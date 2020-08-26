@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dwiww/website/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dwiww/website/static/js/main.92033584.chunk.js",
+    "main.js.map": "/dwiww/website/static/js/main.92033584.chunk.js.map",
+    "runtime-main.js": "/dwiww/website/static/js/runtime-main.34441b26.js",
+    "runtime-main.js.map": "/dwiww/website/static/js/runtime-main.34441b26.js.map",
+    "static/css/2.83228d4e.chunk.css": "/dwiww/website/static/css/2.83228d4e.chunk.css",
+    "static/js/2.f5373796.chunk.js": "/dwiww/website/static/js/2.f5373796.chunk.js",
+    "static/js/2.f5373796.chunk.js.map": "/dwiww/website/static/js/2.f5373796.chunk.js.map",
+    "index.html": "/dwiww/website/index.html",
+    "precache-manifest.4526c808a909ff173d28db9e92d45531.js": "/dwiww/website/precache-manifest.4526c808a909ff173d28db9e92d45531.js",
+    "service-worker.js": "/dwiww/website/service-worker.js",
+    "static/css/2.83228d4e.chunk.css.map": "/dwiww/website/static/css/2.83228d4e.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/dwiww/website/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f5373796.chunk.js.LICENSE.txt": "/dwiww/website/static/js/2.f5373796.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/dwiww/website/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/dwiww/website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34441b26.js",
+    "static/css/2.83228d4e.chunk.css",
+    "static/js/2.f5373796.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.92033584.chunk.js"
+  ]
+}
